@@ -1,0 +1,103 @@
+.container{
+    margin-left: 60px;
+    width: 90%;
+    height: 500px;
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 2px;
+    margin-right: 40px;
+    margin-top: 30px;
+    display: flex;
+}
+.container1{
+    
+    width: 20%;
+    height: 490px;
+    background-color: pink;
+    border: 2px solid black;
+    margin-bottom: 2px;
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+}
+.container2{
+    width: 20%;
+    height: 490px;
+    background-color: pink;
+    border: 2px solid black;
+    padding: 2px;
+    float:right;
+    padding-bottom: 1px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.containerm{
+    width: 60%;
+    height: 490px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    padding: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    display: flex;
+}
+.container1a{
+    width: 90%;
+    height: 50%;
+    background-color: blue;
+    border: 2px solid black;
+    display: flex;
+    margin: 7px;
+   
+}
+.container1b{
+    width: 90%;
+    height: 50%;
+    background-color: red;
+    border: 2px solid black;
+    display: flex;
+    margin: 7px;
+    
+}.container2a{
+    width: 90%;
+    height: 50%;
+    background-color: blue;
+    border: 2px solid black;
+    display: flex;
+    margin: 7px;
+    float: right;
+}
+.container2b{
+    width: 90%;
+    height: 50%;
+    background-color: red;
+    border: 2px solid black;
+    display: flex;
+    margin: 7px;
+    float: right;
+}
+.containerii{
+    width: 93%;
+    height: 95%;
+    border: 2px solid black;
+    background-color: blueviolet;
+    margin-top: 10px;
+    margin-left: 18px;
+    display: flex;
+    flex-direction: column;
+}
+.containerm1{
+    width: 95%;
+    height: 35%;
+    border: 2px solid black;
+    background-color: yellow;
+    margin: 10px;
+}
+.containerm2{
+    width: 95%;
+    height: 55%;
+    border: 2px solid black;
+    background-color: yellow;
+    margin: 10px;
+}
