@@ -1,0 +1,12 @@
+#head1{
+    background-color: aqua;
+    border: 1px solid black;
+}
+.head2{
+    background-color: fuchsia;
+    border: 1px solid black;
+}
+.head3{
+    font-style: italic;
+    color: orangered;
+}
